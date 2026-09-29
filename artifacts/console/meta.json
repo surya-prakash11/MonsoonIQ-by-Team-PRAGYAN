@@ -1,0 +1,226 @@
+{
+  "built_utc": "2026-09-26 05:31 UTC",
+  "build_seconds": 5.3,
+  "provenance": "REAL_IMD_GFS",
+  "dates": 585,
+  "date_range": [
+    "2021-06-06",
+    "2025-09-30"
+  ],
+  "default_date": "2024-07-19",
+  "featured_monsoon_days": [
+    "2024-07-19",
+    "2024-07-20",
+    "2024-07-25",
+    "2024-07-22",
+    "2024-07-26",
+    "2024-07-15",
+    "2024-07-14",
+    "2025-08-20",
+    "2025-06-17",
+    "2024-06-28"
+  ],
+  "leads": [
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5"
+  ],
+  "districts": 53,
+  "alert_categories": {
+    "green": "no warning",
+    "yellow": "64.5-115.5 mm",
+    "orange": "115.6-204.4 mm",
+    "red": ">=204.5 mm"
+  },
+  "year_summary": [
+    {
+      "year": 2021,
+      "days": 117,
+      "warning_district_days": 123,
+      "red": 19,
+      "orange": 77,
+      "yellow": 27,
+      "observed_heavy_districts": 494,
+      "regimes": {
+        "Weak/Normal": 82,
+        "Orographic": 10,
+        "Western Disturbance": 4,
+        "Monsoon Low/Depression": 12,
+        "Coastal": 5,
+        "Break Monsoon": 4
+      }
+    },
+    {
+      "year": 2022,
+      "days": 117,
+      "warning_district_days": 181,
+      "red": 27,
+      "orange": 131,
+      "yellow": 23,
+      "observed_heavy_districts": 582,
+      "regimes": {
+        "Weak/Normal": 74,
+        "Western Disturbance": 8,
+        "Orographic": 9,
+        "Active Monsoon": 11,
+        "Monsoon Low/Depression": 7,
+        "Coastal": 4,
+        "Break Monsoon": 4
+      }
+    },
+    {
+      "year": 2023,
+      "days": 117,
+      "warning_district_days": 133,
+      "red": 19,
+      "orange": 96,
+      "yellow": 18,
+      "observed_heavy_districts": 509,
+      "regimes": {
+        "Weak/Normal": 92,
+        "Monsoon Low/Depression": 5,
+        "Orographic": 7,
+        "Active Monsoon": 3,
+        "Coastal": 1,
+        "Western Disturbance": 8,
+        "Break Monsoon": 1
+      }
+    },
+    {
+      "year": 2024,
+      "days": 117,
+      "warning_district_days": 202,
+      "red": 28,
+      "orange": 148,
+      "yellow": 26,
+      "observed_heavy_districts": 645,
+      "regimes": {
+        "Break Monsoon": 1,
+        "Weak/Normal": 75,
+        "Monsoon Low/Depression": 16,
+        "Orographic": 14,
+        "Active Monsoon": 8,
+        "Western Disturbance": 2,
+        "Coastal": 1
+      }
+    },
+    {
+      "year": 2025,
+      "days": 117,
+      "warning_district_days": 124,
+      "red": 11,
+      "orange": 91,
+      "yellow": 22,
+      "observed_heavy_districts": 564,
+      "regimes": {
+        "Weak/Normal": 96,
+        "Active Monsoon": 3,
+        "Orographic": 12,
+        "Monsoon Low/Depression": 4,
+        "Coastal": 1,
+        "Western Disturbance": 1
+      }
+    }
+  ],
+  "spells": [
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2025-09-03",
+      "end": "2025-09-29",
+      "days": 27,
+      "observed_heavy_districts": 69
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2024-09-18",
+      "end": "2025-06-16",
+      "days": 24,
+      "observed_heavy_districts": 72
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2024-08-06",
+      "end": "2024-08-25",
+      "days": 20,
+      "observed_heavy_districts": 69
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2022-08-24",
+      "end": "2022-09-10",
+      "days": 18,
+      "observed_heavy_districts": 49
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2023-08-09",
+      "end": "2023-08-25",
+      "days": 17,
+      "observed_heavy_districts": 36
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2023-06-16",
+      "end": "2023-06-30",
+      "days": 15,
+      "observed_heavy_districts": 80
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2023-09-10",
+      "end": "2023-09-24",
+      "days": 15,
+      "observed_heavy_districts": 50
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2021-09-30",
+      "end": "2022-06-18",
+      "days": 14,
+      "observed_heavy_districts": 25
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2025-08-02",
+      "end": "2025-08-15",
+      "days": 14,
+      "observed_heavy_districts": 42
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2022-07-18",
+      "end": "2022-07-30",
+      "days": 13,
+      "observed_heavy_districts": 46
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2021-08-03",
+      "end": "2021-08-14",
+      "days": 12,
+      "observed_heavy_districts": 28
+    },
+    {
+      "regime_id": 7,
+      "regime_name": "Weak/Normal",
+      "start": "2022-09-27",
+      "end": "2023-06-13",
+      "days": 12,
+      "observed_heavy_districts": 8
+    }
+  ],
+  "note": "Timeline is model output over the real IMD + GFS archive (JJAS 2021-2025); observed columns are shown only as reference and are never used as forecast input."
+}
